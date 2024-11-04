@@ -1,4 +1,4 @@
-# rama_bae
+# Gim Blind Color
 
 A new Flutter project.
 
