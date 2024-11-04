@@ -1,4 +1,4 @@
-# Gim Blind Color
+# Gim Color Blind
 
 A new Flutter project.
 
