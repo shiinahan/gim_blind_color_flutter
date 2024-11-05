@@ -83,6 +83,7 @@ class _GameScreenState extends State<GameScreen> {
       _saveHighScore(); // Simpan skor tertinggi saat salah
       showDialog(
         context: context,
+        barrierDismissible: false, // Cegah dialog agar tidak ditutup dengan klik di luar
         builder: (context) {
           return AlertDialog(
             title: const Text("Salah!"),
